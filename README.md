@@ -17,7 +17,7 @@
 ### Lets visit the awesome website...
 [CLICK ME](http://hardrockmusic.nasifshahriar.co/)
 
-![hard-rock-music](images/site-ss.jpg)
+![hard-rock-music](images/site.jpg)
 
 # hard-rock-solution
 ### Search Song
